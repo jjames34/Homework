@@ -33,7 +33,9 @@ public class Stairs {
 
 
 	public static void stairs(int input) {
-		//YOUR CODE HERE
+		for (int i = 0; i < input; i++) {
+			System.out.println(i * #);
+		}
 		return;
 	}
 
